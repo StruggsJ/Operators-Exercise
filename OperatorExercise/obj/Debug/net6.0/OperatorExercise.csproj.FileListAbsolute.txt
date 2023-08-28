@@ -1,0 +1,15 @@
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+C:\Users\homePC_1\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
